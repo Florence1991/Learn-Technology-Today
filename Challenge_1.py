@@ -1,5 +1,5 @@
 
-firstname = input('Please enter your first:')
+firstname = input('Please enter your first name:')
 lastname = input('Please enter your last name:')
 
 fullname = firstname + ' ' + lastname
